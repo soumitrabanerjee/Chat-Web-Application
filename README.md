@@ -10,3 +10,4 @@ tables:
 2. foodorder
 3. fooddb
 ----------------------------------------------------------
+SHEMA OF THE TABLES ARE GIVEN AS SCREENSHOTS
