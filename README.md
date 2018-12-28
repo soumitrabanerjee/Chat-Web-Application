@@ -2,8 +2,8 @@
 Web Application (Chat) | php | html | MySql | css 
 ----------------------------------------------------------
 ORACLE SQL:-
-datbase name: javadb
-databse password: abcd
+datbase name: javadb ||
+databse password: abcd ||
 ----------------------------------------------------------
 tables:
 1. login
